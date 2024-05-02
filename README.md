@@ -28,8 +28,6 @@
 # Running the Script and Viewing the traffic 
 **The whole communication is plain-text, this means that its vulnerable to some kind of attacks (MITM,sniffing,etc...)**
 
-- **Connecting to the shell after running the server-shell**
-![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/ecc3b731-800e-43ff-9210-676947e42b74)
 
 - **Performing a command**
 ![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/9841515e-f025-4a15-ba84-1507124eabe8)
