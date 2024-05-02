@@ -14,8 +14,8 @@
 
 
 
-- () Numbers represent connection establishment
-- <> Numbers represent the communitcation process between client and server
+- `()` Numbers represent connection establishment
+- `<>` Numbers represent the communitcation process between client and server
 - We are using a default port to listen to and the same port for the client
 - The socket will look like [127.0.0.1:DEFAULTport]
 - All of the functions are described within the code comments
