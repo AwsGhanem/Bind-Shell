@@ -28,16 +28,18 @@
 # Running the Script and Viewing the traffic 
 **The whole communication is plain-text, this means that its vulnerable to some kind of attacks (MITM,sniffing,etc...)**
 
+- **Connecting to the Server-shell**
+- ![Screenshot 2024-05-02 215613](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/ca9a5db7-9d7e-4542-8fd6-2f9b6dd67778)
 
 - **Performing a command**
-![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/9841515e-f025-4a15-ba84-1507124eabe8)
+- ![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/9841515e-f025-4a15-ba84-1507124eabe8)
 
 - **The executed command will be logged to the server**
-![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/3894b015-ed79-48f3-8793-ebff8f4076eb)
+- ![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/3894b015-ed79-48f3-8793-ebff8f4076eb)
 
 - **The traffic on Wireshark is all on plain-text because no encryption is used**
 
-![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/62871f00-b49c-4669-8200-1b45dfa288e0)
+- ![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/62871f00-b49c-4669-8200-1b45dfa288e0)
 
 
 
