@@ -26,7 +26,8 @@
 - `-c` to conntect to the server-shell (`-c IP-address`)
 
 # Running the Script and Viewing the traffic 
-**The whole communication is plain-text, this means that its vulnerable to some kind of attacks (MITM,sniffing,etc...)**
+> [!WARNING]
+> The whole communication is plain-text, this means that its vulnerable to some kind of attacks (MITM,sniffing,etc...).
 
 1) Connecting to the Server-shell**
 - ![Screenshot 2024-05-02 215613](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/ca9a5db7-9d7e-4542-8fd6-2f9b6dd67778)
