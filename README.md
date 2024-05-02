@@ -6,7 +6,7 @@
 
 #
 
-### To apply as much as beneficial modules, we used (threading, argparse) beside sockets which is the most important one.
+### To maximize efficiency, we used (threading, argparse) beside sockets which is the most important one.
 
 
 # Diagram of the whole experiment
