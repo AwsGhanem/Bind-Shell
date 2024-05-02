@@ -1,6 +1,6 @@
 # Bind-Shell Using Python
 
-**The Bind shell is a type of shells that opens a socket and binds itself to it, simple as that.**
+**The Bind shell is a type of shells that opens a socket and binds itself to it, as simple as that.**
 
 - In terms of Hacking, bind shell is opened by the attacker himself and he's the one who initiates the connection.
 
