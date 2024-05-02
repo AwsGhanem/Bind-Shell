@@ -10,8 +10,9 @@
 
 
 # Diagram of the whole experiment
+![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/342fd9f7-3179-4290-b9c3-405255fa49b7)
 
-![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/c786b480-26aa-438f-b09b-b592ab2d0915)
+
 
 - () Numbers represent connection establishment
 - <> Numbers represent the communitcation process between client and server
