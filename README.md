@@ -32,7 +32,7 @@
 1) Connecting to the Server-shell**
 - ![Screenshot 2024-05-02 215613](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/ca9a5db7-9d7e-4542-8fd6-2f9b6dd67778)
 
-2) Performing a command**
+2) **Performing a command**
 - ![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/9841515e-f025-4a15-ba84-1507124eabe8)
 
 3) **The executed command will be logged to the server**
