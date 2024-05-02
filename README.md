@@ -24,5 +24,24 @@
 - `-h` to view the flags
 - `-l` to start the server-shell
 - `-c` to conntect to the server-shell (`-c IP-address`)
-  
+
+# Running the Script and Viewing the traffic 
+**The whole communication is plain-text, this means that its vulnerable to some kind of attacks (MITM,sniffing,etc...)**
+
+- **Connecting to the shell after running the server-shell**
+![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/ecc3b731-800e-43ff-9210-676947e42b74)
+
+- **Performing a command**
+![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/9841515e-f025-4a15-ba84-1507124eabe8)
+
+- **The executed command will be logged to the server**
+![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/3894b015-ed79-48f3-8793-ebff8f4076eb)
+
+- **The traffic on Wireshark is all on plain-text because no encryption is used**
+
+![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/62871f00-b49c-4669-8200-1b45dfa288e0)
+
+
+
+
 
