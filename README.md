@@ -27,7 +27,7 @@
 
 # Running the Script and Viewing the traffic 
 > [!WARNING]
-> The whole communication is plain-text, this means that its vulnerable to some kind of attacks (MITM,sniffing,etc...).
+> **The whole communication is done as plain-text, this means it's vulnerable to some kind of attacks (MITM,sniffing,etc...).**
 
 1) Connecting to the Server-shell**
 - ![Screenshot 2024-05-02 215613](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/ca9a5db7-9d7e-4542-8fd6-2f9b6dd67778)
