@@ -20,7 +20,7 @@
 - All of the functions are described within the code comments
 #
 
-## Help Manual 
+**Help Manual** 
 - `-h` to view the flags
 - `-l` to start the server-shell
 - `-c` to conntect to the server-shell (`-c IP-address`)
