@@ -10,7 +10,8 @@
 
 
 # Diagram of the whole experiment
-![image](https://github.com/AwsGhanem/Bind-Shell/assets/123994471/342fd9f7-3179-4290-b9c3-405255fa49b7)
+![image](https://github.com/user-attachments/assets/a5d3ef71-b5a7-424e-bb7d-3075a703e20a)
+
 
 
 
